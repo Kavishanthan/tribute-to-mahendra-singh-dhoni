@@ -1,2 +1,2 @@
-# tribute-to-mahendra-singh-dhoni
+# Tribute to Mahendra Singh Dhoni
 Tribute to Mahendra Singh Dhoni

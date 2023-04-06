@@ -7,22 +7,22 @@ body{
 
 @keyframes changeBg {
     0% {
-        background-color: rgba(30, 30, 112, 0.459)
+        background-color: rgba(196, 196, 218, 0.459)
     }
     20% {
-        background-color: rgba(187, 150, 138, 0.582)
+        background-color: rgba(192, 180, 176, 0.582)
     }
     40% {
-        background-color: rgba(72, 128, 9, 0.459)
+        background-color: rgba(174, 184, 162, 0.459)
     }
     60% {
-        background-color: rgba(224, 177, 19, 0.973)
+        background-color: rgba(175, 169, 147, 0.973)
     }
     80% {
-        background-color: rgba(238, 172, 29, 0.459)
+        background-color: rgba(155, 149, 135, 0.459)
     }
     100% {
-        background-color: rgba(77, 192, 11, 0.459)
+        background-color: rgba(191, 207, 182, 0.459)
     }
 }
 
